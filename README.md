@@ -1,5 +1,19 @@
 ### 👋 Olá, meu nome é Gabriel Peixoto!! 
 
+Sou estudante de Sistemas de Informação e tenho como principal foco a área de TI, o desenvolvimento de soluções utilizando a linguagem de programação JavaScript sempre buscando aplicar conceitos de Clean Code e Design Patterns em meus projetos. Tenho conhecimento em metodologias ágeis como Kanban e Scrum.
+
+Atualmente meu foco estão nas seguintes tecnologias:
+ - HTML
+- CSS 
+- Javascript
+- Git 
+- Banco de Dados Relacionais (MySQL e SQL Server) 
+
+Meus contatos: 
+📩 bielpcosta@hotmail.com 
+📞 +55 84 991926321 
+🌐 github.com/peixotons
+
 - 👨‍🎓 Cursando o 7° período de Sistemas de Informação
 - 🌱 Estou atualmente focado em React.js
 
