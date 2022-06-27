@@ -15,7 +15,7 @@ Meus contatos:
 🌐 github.com/peixotons
 
 - 👨‍🎓 Cursando o 7° período de Sistemas de Informação
-- 🌱 Estou atualmente focado em React.js
+- 🌱 Estou atualmente focado em Reactjs
 
 <div>
   </br>
