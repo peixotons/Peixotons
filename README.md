@@ -3,7 +3,7 @@
 Sou estudante de Sistemas de Informação e tenho como principal foco a área de TI, o desenvolvimento de soluções utilizando a linguagem de programação JavaScript sempre buscando aplicar conceitos de Clean Code e Design Patterns em meus projetos. Tenho conhecimento em metodologias ágeis como Kanban e Scrum.
 
 Atualmente meu foco estão nas seguintes tecnologias:
- - HTML
+- HTML
 - CSS 
 - Javascript
 - Git 
