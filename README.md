@@ -10,6 +10,7 @@ Atualmente meu foco estão nas seguintes tecnologias:
 - Banco de Dados Relacionais (MySQL e SQL Server) 
 
 Meus contatos: 
+
 📩 bielpcosta@hotmail.com 
 📞 +55 84 991926321 
 🌐 github.com/peixotons
